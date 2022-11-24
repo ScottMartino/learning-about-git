@@ -20,6 +20,8 @@ main{
     color:blanchedalmond;
     max-height: 50vh;
     border: 3px dotted yellow;
+}
 
-
+footer li{
+    display: flex;
 }
